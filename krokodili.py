@@ -1,7 +1,7 @@
 from password import gen_pass
 
 import telebot 
-token='token'
+token='token'  #manke
     # Замени 'TOKEN' на токен твоего бота
     # Этот токен ты получаешь от BotFather, чтобы бот мог работать
 bot = telebot.TeleBot(token)
